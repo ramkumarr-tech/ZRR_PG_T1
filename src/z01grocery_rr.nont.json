@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type Z01GROCERY_RR",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "Z01GROCERY_RR",
+  "sapObjectType": "Z01GROCERY_RR",
+  "rootNode": true
+}
